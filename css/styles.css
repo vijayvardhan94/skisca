@@ -1,0 +1,39 @@
+button :hover{
+	font-style: none;
+	text-decoration: none;
+	color: white;
+}
+#btn-download{
+	background-color: steelblue;
+	padding : 10px;
+	color: white;
+	text-decoration: none;
+}
+
+#btn-upload{
+	background-color: red;
+	padding : 10px;
+	color: white;
+	text-decoration: none;
+}
+
+#btn-contribute{
+	background-color: green	;
+	padding : 10px;
+	color: white;
+	text-decoration: none;
+}
+
+#btn-submit{
+	background-color: orange;
+	padding : 10px;
+	color: white;
+	text-decoration: none;
+}
+
+#btn-learn-more{
+	background-color: steelblue;
+	padding : 10px;
+	color: white;
+	text-decoration: none;	
+}
